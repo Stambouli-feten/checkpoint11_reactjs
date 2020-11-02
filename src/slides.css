@@ -1,0 +1,8 @@
+.caroussels {
+  /* display: flex; */
+  margin-top: 50px;
+  width: 60%;
+  margin-left: 20%;
+  margin-bottom: 50px;
+  /* justify-content: center; */
+}
